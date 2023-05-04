@@ -84,7 +84,12 @@ display: none;
   top: 55%;
   left: 40%;
 }
-
+#loclb{
+  position: fixed;
+  display: none;
+  top: 61%;
+  left: 40%;
+}
 
 
 
