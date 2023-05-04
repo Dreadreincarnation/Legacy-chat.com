@@ -90,7 +90,12 @@ display: none;
   top: 61%;
   left: 40%;
 }
-
+#loc{
+  position: fixed;
+  display: block;
+  top: 61%;
+  left: 50%;
+}
 
 
 
