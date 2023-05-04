@@ -12,10 +12,16 @@
   left: 35%;
 }
 #log{
-background-color: white;
-top: 30%;
-position: fixed;
-height: 35px;
-width: 95px;
-left: 49%;
+  background-color: white;
+  top: 30%;
+  position: fixed;
+  height: 35px;
+  width: 95px;
+  left: 49%;
 }
+#crac{
+  top: 40%;
+  margin: auto;
+  display: block;
+  position: fixed;
+  left: 49%
