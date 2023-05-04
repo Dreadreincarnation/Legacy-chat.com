@@ -62,3 +62,8 @@ display: none;
   top: 32%;
   left: 40%;
 }
+#passtxt{
+  position: fixed;
+  top: 40%;
+  left: 40%;
+}
