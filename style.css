@@ -78,8 +78,12 @@ display: none;
   top: 55%;
   left: 50%;
 }
-
-
+#agelb{
+  position: fixed;
+  display: none;
+  top: 55%;
+  left: 40%;
+}
 
 
 
