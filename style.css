@@ -11,3 +11,10 @@
   position: fixed;
   left: 35%;
 }
+#log{
+background-color: white;
+top: 30%;
+position: fixed;
+height: 35px;
+width: 95px;
+}
