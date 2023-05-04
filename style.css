@@ -67,3 +67,8 @@ display: none;
   top: 40%;
   left: 40%;
 }
+#emailtxt{
+  position: fixed;
+  top: 48%;
+  left: 40%;
+}
