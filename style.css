@@ -35,6 +35,10 @@
 #createinput{
 display: none;
 }
-
+#usex{
+position: fixed;
+top: 32%;
+left: 50%;
+}
 
 
