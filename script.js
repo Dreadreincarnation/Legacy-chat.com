@@ -26,13 +26,14 @@ let Create = function(){
   nala.style.display = 'block';
 }
 let finish = function(){
+  var userlist = []
   var mainin = document.querySelector('#mail')
   var passin = document.querySelector('#pass')
   var userin = document.querySelector('#usex')
   var again = document.querySelector('#aze')
   var locin = document.querySelector('#loc')
   var genin = document.querySelector('#gen')
-  let res = await bucket.get('users:1:flavor')
+  await bucket.set('userlist', userin)
 
 
 
