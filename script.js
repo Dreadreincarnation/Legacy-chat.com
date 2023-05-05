@@ -1,4 +1,4 @@
-const lesgo
+const lesgo = document.querySelector
 const divContainer
 const leso
 const ledo
