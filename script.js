@@ -10,6 +10,7 @@ const coro = document.querySelector('#loc')
 const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn')
+import kvdb.io
 const KVdb = require('kvdb.io')
 
 
