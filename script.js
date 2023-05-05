@@ -32,14 +32,13 @@ let finish = function(){
   var again = document.querySelector('#aze')
   var locin = document.querySelector('#loc')
   var genin = document.querySelector('#gen')
-
+  await bucket.set('userlist', userin)
   if userlist.includes(userin){
     usex.classList.add('error');
   }
   else{
   user list.push(userin)
   }
-  await bucket.set('userlist', userin)
 
 
 
