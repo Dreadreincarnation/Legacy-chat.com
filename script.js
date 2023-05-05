@@ -5,8 +5,8 @@ const ledo = document.querySelector('')
 const cerl = document.querySelector('')
 const zieko = document.querySelector('')
 const lias = document.querySelector('')
-const azra
-const coro
-const cova
-const mare
-const nala
+const azra = document.querySelector('')
+const coro = document.querySelector('')
+const cova = document.querySelector('')
+const mare = document.querySelector('')
+const nala = document.querySelector('')
