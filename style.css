@@ -102,6 +102,9 @@ display: none;
   top: 67%;
   left: 40%;
 }
+#gen{
+  position: fixed;
+  display: none;
 
 
 
