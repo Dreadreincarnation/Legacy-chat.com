@@ -34,9 +34,8 @@ let finish = function(){
   var genin = document.querySelector('#gen')
   if userlist.includes(userin){
     usex.classList.add('error');
-  }
-  else{
-    user list.push(userin);
+  } else{
+      user list.push(userin);
   }
 
 
