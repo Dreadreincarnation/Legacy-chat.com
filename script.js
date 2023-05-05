@@ -23,7 +23,7 @@ let Createx = function(){
   nala.style.display = 'block';
 }
 let finish = function(){
-  var userlist = []
+  var userlist = [];
   var mainin = document.querySelector('#mail')
   var passin = document.querySelector('#pass')
   var userin = document.querySelector('#usex')
