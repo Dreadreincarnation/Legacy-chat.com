@@ -16,7 +16,9 @@ let Create = function(){
   zieko.style.display = 'block';
   lias.style.display = 'block';
   ledo.style.display = 'block';
-
+  cerl.style.display = 'block';
+  azra.style.display = 'block';
+  coro.style.display = 'block';
 
 
 
