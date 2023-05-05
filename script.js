@@ -10,8 +10,6 @@ const coro = document.querySelector('#loc')
 const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn')
-let KVdb
-
 let Createx = function(){
   leso.style.display = 'none';
   zieko.style.display = 'block';
@@ -32,7 +30,6 @@ let finish = function(){
   var again = document.querySelector('#aze')
   var locin = document.querySelector('#loc')
   var genin = document.querySelector('#gen')
-  await bucket.set('userlist', userin)
   
 
 
