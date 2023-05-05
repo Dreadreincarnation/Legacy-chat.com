@@ -1,4 +1,3 @@
-import kvdb.io
 const lesgo = document.querySelector('body')
 const divContainer = document.querySelector('#titles')
 const leso = document.querySelector('#mainsr')
