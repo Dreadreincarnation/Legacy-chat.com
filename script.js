@@ -11,7 +11,7 @@ const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn')
 
-let Create = function(){
+let create = function(){
   leso.style.display = 'none';
   zieko.style.display = 'block';
   lias.style.display = 'block';
