@@ -20,12 +20,10 @@
   left: 49%;
 }
 #Crac{
+  position: fixed;
   top: 40%;
   display: block;
-  position: fixed;
-  left: 49%;
-  height: 35px;
-  width: 95px;
+  left: 49%
 }
 #createtxt{
   display: none;
