@@ -14,7 +14,7 @@ import kvdb.io
 const KVdb = require('kvdb.io')
 
 
-let Create = function(){
+let Createx = function(){
   leso.style.display = 'none';
   zieko.style.display = 'block';
   lias.style.display = 'block';
