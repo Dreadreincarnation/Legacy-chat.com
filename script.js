@@ -36,6 +36,9 @@ let finish = function(){
   if userlist.includes(userin){
     usex.classList.add('error');
   }
+  else{
+
+  }
   await bucket.set('userlist', userin)
 
 
