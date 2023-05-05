@@ -59,35 +59,35 @@
 #nametxt{
   position: fixed;
   top: 32%;
-  left: 40%;
+  left: 30%;
 }
 #passtxt{
   position: fixed;
   top: 40%;
-  left: 40%;
+  left: 30%;
 }
 #emailtxt{
   position: fixed;
   top: 48%;
-  left: 40%;
+  left: 30%;
 }
 #aze{
   display: none;
   position: fixed;
   top: 55%;
-  left: 50%;
+  left: 30%;
 }
 #agelb{
   position: fixed;
   display: none;
   top: 55%;
-  left: 40%;
+  left: 30%;
 }
 #loclb{
   position: fixed;
   display: none;
   top: 61%;
-  left: 40%;
+  left: 30%;
 }
 #loc{
   position: fixed;
@@ -99,7 +99,7 @@
   display: none;
   position: fixed;
   top: 67%;
-  left: 40%;
+  left: 30%;
 }
 #gen{
   position: fixed;
