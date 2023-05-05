@@ -13,7 +13,9 @@ const nala = document.querySelector('#createbtn')
 
 let Create = function(){
   leso.style.display = 'none';
-
+  zieko.style.display = 'block';
+  lias.style.display = 'block';
+  ledo.style.display = 'block';
 
 
 
