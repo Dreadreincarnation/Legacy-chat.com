@@ -11,6 +11,7 @@ const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn')
 const KVdb = require('kvdb.io')
+const bucket = KVdb.bucket('MY_BUCKET_ID', 'MY_ACCESS_TOKEN')
 
 let Create = function(){
   leso.style.display = 'none';
@@ -31,7 +32,7 @@ let finish = function(){
   var again = document.querySelector('#aze')
   var locin = document.querySelector('#loc')
   var genin = document.querySelector('#gen')
-
+  let res = await bucket.get('users:1:flavor')
 
 
 
