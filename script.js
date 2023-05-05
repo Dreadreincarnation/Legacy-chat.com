@@ -19,7 +19,9 @@ let Create = function(){
   cerl.style.display = 'block';
   azra.style.display = 'block';
   coro.style.display = 'block';
-
+  cova.style.display = 'block';
+  mare.style.display = 'block';
+  nala.style.display = 'block';
 
 
 
