@@ -4,5 +4,8 @@ const leso
 const ledo
 const cerl
 const zieko
-const
-const
+const lias
+const azra
+const coro
+const cova
+const mare
