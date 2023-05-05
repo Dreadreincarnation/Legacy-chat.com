@@ -55,28 +55,7 @@
         </select>
 </div>
 
-<script>
-$('#createcontainer').submit(function(e) {
-  e.preventDefault();
 
-  var value = {
-    created: new Date().toISOString()
-  };
-
-  $(this).find("input").each(function() {
-    value[$(this).attr("name")] = $(this).val();
-  });
-
-  if(value.email == "") return false;
-
-  $.post("https://kvdb.io/6fuLe2M1kcCjxotEiV5qXE/waitinglist_" + value.email, JSON.stringify(value))
-    .done(function() {
-      alert('Thank you');
-    });
-
-  return false;
-});
-</script>
 
 
 
