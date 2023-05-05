@@ -23,7 +23,9 @@
   position: fixed;
   top: 40%;
   display: block;
-  left: 49%
+  left: 49%;
+  width: 95px;
+  height: 35px;
 }
 #createtxt{
   display: none;
