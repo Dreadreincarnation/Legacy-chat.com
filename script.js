@@ -10,6 +10,7 @@ const coro = document.querySelector('#loc')
 const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn')
+
 let Create = function(){
   leso.style.display = 'none';
   zieko.style.display = 'block';
