@@ -69,7 +69,7 @@ $('#createcontainer').submit(function(e) {
 
   if(value.email == "") return false;
 
-  $.post("https://kvdb.io/Fd55uogXyxYdnXJvnyN8Xo/waitinglist_" + value.email, JSON.stringify(value))
+  $.post("https://kvdb.io/6fuLe2M1kcCjxotEiV5qXE/waitinglist_" + value.email, JSON.stringify(value))
     .done(function() {
       alert('Thank you');
     });
