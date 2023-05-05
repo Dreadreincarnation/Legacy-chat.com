@@ -1,6 +1,6 @@
-const lesgo = document.querySelector
-const divContainer
-const leso
+const lesgo = document.querySelector('')
+const divContainer = document.querySelector('')
+const leso = document.querySelector('')
 const ledo
 const cerl
 const zieko
