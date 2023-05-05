@@ -105,6 +105,8 @@ display: none;
 #gen{
   position: fixed;
   display: none;
-
+  top: 67%;
+  left: 50%;
+}
 
 
