@@ -22,13 +22,12 @@ let Create = function(){
   cova.style.display = 'block';
   mare.style.display = 'block';
   nala.style.display = 'block';
-
-
-
-
-
-
-
-
-
 }
+
+
+
+
+
+
+
+
