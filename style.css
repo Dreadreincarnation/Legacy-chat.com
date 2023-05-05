@@ -33,7 +33,7 @@
   position: fixed;
 }
 #createinput{
-display: none;
+  display: none;
 }
 #usex{
   position: fixed;
@@ -92,7 +92,7 @@ display: none;
 }
 #loc{
   position: fixed;
-  display: block;
+  display: none;
   top: 61%;
   left: 50%;
 }
