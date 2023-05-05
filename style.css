@@ -96,7 +96,12 @@ display: none;
   top: 61%;
   left: 50%;
 }
-
+#gentxt{
+  display: none;
+  position: fixed;
+  top: 67%;
+  left: 40%;
+}
 
 
 
