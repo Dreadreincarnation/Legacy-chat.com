@@ -10,7 +10,7 @@ const coro = document.querySelector('#loc')
 const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn')
-npn I kvdb.io
+npm I kvdb.io
 const KVdb = require('kvdb.io')
 const bucket = KVdb.bucket('2QSYWhBjfeTBDvNbuj4dFz', 'gjgdovxgtoutevbif')
 let Create = function(){
