@@ -9,3 +9,4 @@ const azra
 const coro
 const cova
 const mare
+const nala
