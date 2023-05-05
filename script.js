@@ -10,7 +10,7 @@ const coro = document.querySelector('#loc')
 const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn')
-const KVdb = require('./index')
+let KVdb
 
 let Createx = function(){
   leso.style.display = 'none';
