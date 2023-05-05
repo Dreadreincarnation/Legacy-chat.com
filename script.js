@@ -37,7 +37,7 @@ let finish = function(){
     usex.classList.add('error');
   }
   else{
-
+  user list.push(userin)
   }
   await bucket.set('userlist', userin)
 
