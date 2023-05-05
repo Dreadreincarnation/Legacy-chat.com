@@ -11,6 +11,7 @@ const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn');
 const KVdb = require('kvdb.io');
+const bucket = KVdb.bucket('2QSYWhBjfeTBDvNbuj4dFz', 'gjgdovxgtoutevbif');
 let create = function(){
   leso.style.display = 'none';
   zieko.style.display = 'block';
