@@ -1,10 +1,3 @@
-'use strict';
-(function(global, factory) {
-  factory = factory.bind(global)
-  typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() : typeof define === 'function' && define.amd ? define(factory) : (global.KVdb = factory())
-}(this, (function() { 'user strict';
-const fetch = typeof this.window !== 'undefined' ? window.fetch : require('node-fetch');
-let KVdb
 const lesgo = document.querySelector('body')
 const divContainer = document.querySelector('#titles')
 const leso = document.querySelector('#mainsr')
