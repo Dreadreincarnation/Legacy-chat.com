@@ -11,7 +11,11 @@ const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn');
 import { Octokit, App } from 'https://cdn.skypack.dev/octokit';
+const octokit = new Octokit({
 
+  auth: 'YOUR-TOKEN'
+
+});
 
 let create = function(){
   leso.style.display = 'none';
