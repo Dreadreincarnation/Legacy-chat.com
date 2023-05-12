@@ -11,9 +11,7 @@ const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn')
 const { Octokit, App } = require("octokit");
-const octokit = new Octokit({
-  auth: 'YOUR-TOKEN'
-});
+
 let create = function(){
   leso.style.display = 'none';
   zieko.style.display = 'block';
