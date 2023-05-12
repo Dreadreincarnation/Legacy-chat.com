@@ -10,7 +10,6 @@ const coro = document.querySelector('#loc')
 const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn')
-const { Octokit, App } = require("octokit");
 
 let create = function(){
   leso.style.display = 'none';
