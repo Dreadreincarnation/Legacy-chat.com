@@ -10,7 +10,7 @@ const coro = document.querySelector('#loc')
 const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
 const nala = document.querySelector('#createbtn');
-import { Octokit, App } from "https://cdn.skypack.dev/octokit";
+import { Octokit, App } from 'https://cdn.skypack.dev/octokit';
 const octokit = new Octokit({
   auth: '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'
 });
