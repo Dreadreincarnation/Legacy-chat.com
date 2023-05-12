@@ -9,11 +9,6 @@
   "keywords": [
     "kvdb",
     "key",
-    "value",
-    "database",
-    "serverless",
-    "localstorage",
-    "localforage"
   ],
   "homepage": "https://kvdb.io",
   "repository": {
@@ -23,6 +18,6 @@
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.0"
-    "KVdb.io": "^1.0.5"
-  }
-}
+
+  
+
