@@ -1,4 +1,8 @@
-Npm install octokit --save
+{
+  "dependencies": {
+
+    "@octokit/auth-oauth-device": "^4.0.0",
+    "@octokit/core": "^4.0.0"
 
 
   
@@ -6,5 +10,5 @@ Npm install octokit --save
     
 
 
-  
+  }
 
