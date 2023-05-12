@@ -9,14 +9,7 @@ const azra = document.querySelector('#agelb')
 const coro = document.querySelector('#loc')
 const cova = document.querySelector('#gen')
 const mare = document.querySelector('#gentxt')
-const nala = document.querySelector('#createbtn');
-import { Octokit, App } from 'https://cdn.skypack.dev/octokit';
-const octokit = new Octokit({
-
-  auth: 'YOUR-TOKEN'
-
-});
-
+const nala = document.querySelector('#createbtn')
 let create = function(){
   leso.style.display = 'none';
   zieko.style.display = 'block';
